@@ -9,8 +9,8 @@ This project showcases two interactive dashboards built using **IBM Cognos Analy
 As a **Regional Manager** for a chain of car dealerships, the goal is to build dashboards to analyze and compare **sales** and **service** performance across different models, dealers, and time periods.
 
 Two dashboards were created:
-- **Sales Dashboard** (Tab: `Sales`)
-- **Service Dashboard** (Tab: `Service`)
+- **Sales Dashboard**
+- **Service Dashboard**
 
 Each dashboard uses visualizations and KPIs to help drive data-informed decisions.
 
